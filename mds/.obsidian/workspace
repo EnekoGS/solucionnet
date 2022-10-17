@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "5c18f9488eb44009",
+    "type": "split",
+    "children": [
+      {
+        "id": "202ddf9c23c1b25a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Entity Framework Core.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5bedf6084dcc731e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbdc128040f5cfc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cefbe039bf954818",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c51c2e89f818b2b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5083885192871
+  },
+  "right": {
+    "id": "9db3e27f7bdddcea",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7975e61a84df17a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dc6bfaaa9cacbc7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Entity Framework Core.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f2e73d9291a5a0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Entity Framework Core.md"
+              }
+            }
+          },
+          {
+            "id": "0c432056f28f9f65",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f05ec53606a649e5",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd592535b8c91d3f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe5906b44cd2b18e",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.0833435058594
+  },
+  "active": "202ddf9c23c1b25a",
+  "lastOpenFiles": [
+    "C Sharp.md",
+    "Entity Framework Core.md",
+    "Recursos.md",
+    "ml-notebooks/mds/5.11. Apache Spark.md",
+    "ml-notebooks/mds/3.14. Clustering.md",
+    "ml-notebooks/mds/3.16. Resumen.md",
+    "ml-notebooks/mds/3.15. Time series.md",
+    "ml-notebooks/docker/README.md",
+    "ml-notebooks/mds/5.2. Entorno desarrollo.md",
+    "ml-notebooks/mds/5.1. Ecosistema.md"
+  ]
+}
