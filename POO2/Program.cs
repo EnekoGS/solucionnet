@@ -191,5 +191,8 @@ Console.WriteLine($"La media de la RAM de los ordenadores es {avgRam}");
 Console.WriteLine("================= FindMaxRam ===================");
 
 computerRepo.PrintAll();
-int maxRam = computerRepo.FindMaxRam();
+int minRam = computerRepo.FindMinRam();
+Console.WriteLine($"La RAM máxima de los ordenadores es {maxRam}");
+computerRepo.PrintAll();
+minRam = computerRepo.FindMinRam();
 Console.WriteLine($"La RAM máxima de los ordenadores es {maxRam}");
